@@ -1,0 +1,17 @@
+Topic: Exception Handling
+
+   -> Un-caught Exception
+   -> Try catch
+          1. Simple
+          2. Try with mutliple catches (Show Hierarchal Exceptions)
+          3. Multiple Errors handled using simple catch (General / OR operator)
+          4. Try-catch with finally block (use return statements)
+          5. Try-finally
+
+   -> Checked Exceptions
+          1. Throws clause
+          2. Nested try catch and throws clause
+    
+   -> User - defined Exceptions
+          1. Throw in try/catch
+

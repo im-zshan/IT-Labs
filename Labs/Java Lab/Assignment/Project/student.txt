@@ -1,0 +1,5 @@
+Ashish 123 maths 74
+Ashish 123 english 89
+Aryan 127 english 89
+Aryan 127 science 98
+Zeeshan 12 Java 90Muzaffer 90 Big Data 94
